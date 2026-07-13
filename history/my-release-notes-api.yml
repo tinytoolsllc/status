@@ -1,7 +1,7 @@
 url: https://api.myreleasenotes.ai/api/feed
-status: down
-code: 500
-responseTime: 30777
-lastUpdated: 2026-07-13T17:46:06.213Z
+status: up
+code: 200
+responseTime: 6847
+lastUpdated: 2026-07-13T19:04:06.760Z
 startTime: 2026-02-20T18:24:49.711Z
 generator: Upptime <https://github.com/upptime/upptime>
